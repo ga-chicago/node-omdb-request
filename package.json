@@ -1,0 +1,19 @@
+{
+  "name": "terry_node_omdb_request",
+  "version": "1.0.0",
+  "description": "Terry's homework for the node.js movie/actor application",
+  "main": "movie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlippincott/node-omdb-request.git"
+  },
+  "author": "Terry Lippincott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlippincott/node-omdb-request/issues"
+  },
+  "homepage": "https://github.com/tlippincott/node-omdb-request#readme"
+}
