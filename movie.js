@@ -17,6 +17,6 @@ function getMovie(movieTitle) {
 		})
 };
 
-module.exports.get = getMovie;
+module.exports.getMovie = getMovie;
 
 // getMovie("The Fast and The Furious");
