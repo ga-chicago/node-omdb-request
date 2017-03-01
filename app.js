@@ -11,7 +11,7 @@ function movies(movieTitle){
 		res.on('end', function(){
 			if (res.statusCode === 200){
 				var movie = JSON.parse(body);
-				console.log(body);
+				console.log(movie);
 			}
 			else{
 				console.log('error');
