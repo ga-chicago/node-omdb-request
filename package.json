@@ -1,0 +1,19 @@
+{
+  "name": "node-omdb-request",
+  "version": "1.0.0",
+  "description": "node movie hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprosumer/node-omdb-request.git"
+  },
+  "author": "john favors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theprosumer/node-omdb-request/issues"
+  },
+  "homepage": "https://github.com/theprosumer/node-omdb-request#readme"
+}
