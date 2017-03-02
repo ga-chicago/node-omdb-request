@@ -1,0 +1,19 @@
+{
+  "name": "node-omdb-request",
+  "version": "1.0.0",
+  "description": "Tonight you need to use Node.js to make a request to **OMDB**.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasg3728/node-omdb-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasg3728/node-omdb-request/issues"
+  },
+  "homepage": "https://github.com/matiasg3728/node-omdb-request#readme"
+}
